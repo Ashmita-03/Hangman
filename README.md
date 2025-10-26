@@ -18,4 +18,5 @@ This game is one of the most popular games played by children. It has four theme
 ### Struggles and Learnings
 I struggled to display the result screen at the end, as it was not covering the entire screen initially, but I fixed it. I learnt how to embed tiktok videos.
 ### Preview
-<img width="1156" height="908" alt="Screenshot 2025-10-25 160925" src="https://github.com/user-attachments/assets/01bb0f4d-fdd7-46f3-baef-d53ffd70e6c8" />
+<img width="1902" height="884" alt="Screenshot 2025-10-25 160759" src="https://github.com/user-attachments/assets/f2b97b45-f296-4fde-b675-d890dbebfe42" />
+
